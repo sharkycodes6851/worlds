@@ -43,4 +43,16 @@ I LOVE eating moss, its so delicis, yummy. Why am I writing this like this
 <img src="media/moss2.png" height="100">
 </p>
 
+
+<details>
+    <summary>Click on this</summary>
+    You clicked on me!!
+        <summary>Click on this, but again 1</summary>
+        You clicked on it again?
+        <summary>Click on this, but again 2</summary>
+        Again???
+        <summary>Click on this, but again 3</summary>
+        REALLY??
+</details>
+
  [Discord]: https://discord.gg/D4UZmKQgSe
