@@ -12,7 +12,7 @@ I LOVE eating moss, its so delicis, yummy. Why am I writing this like this
 
 # Header / 1
  Header test
-* [Discord]
+* Check out the [Discord]
 
 ## Header / 2
  Header Test 2
