@@ -25,9 +25,14 @@ I LOVE eating moss, its so delicis, yummy. Why am I writing this like this
  Header Test 3
 
 <p align="left">
+<h1 center="left">Here is some moss</h1>
+<h2 center="left">Here is some moss</h2>
+<marquee center="left">Here is some moss</marquee>
 <img src="media/moss2.png" height="100">
 </p>
 <p align="right">
+<h1 center="right">Here is some moss</h1>
+<h2 center="right">Here is some moss</h2>
 <marquee center="right">Here is some moss</marquee>
 <img src="media/moss2.png" height="100">
 </p>
