@@ -14,6 +14,12 @@ I LOVE eating moss, its so delicis, yummy. Why am I writing this like this
  Header test
 * Check out the [Discord]
 
+ # Header 1
+
+<p align="left">
+    <h1 center="center">Header 1</h1>
+</p>
+
 ## Header / 2
  Header Test 2
 
