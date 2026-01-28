@@ -24,6 +24,11 @@ I LOVE eating moss, its so delicis, yummy. Why am I writing this like this
 ### Header / 3
  Header Test 3
 
-
+<p align="left">
+<img src="media/moss2.png" height="100">
+</p>
+<p align="right">
+<img src="media/moss2.png" height="100">
+</p>
 
  [Discord]: https://discord.gg/D4UZmKQgSe
